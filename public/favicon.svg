@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="The Osas favicon">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#5256FF"/>
+      <stop offset="100%" stop-color="#A3A6FF"/>
+    </linearGradient>
+  </defs>
+  <circle cx="64" cy="64" r="58" fill="url(#g)"/>
+  <circle cx="64" cy="64" r="34" fill="none" stroke="#FFFFFF" stroke-width="8" opacity="0.9"/>
+  <path d="M44 72c0-13 7-24 20-24s20 11 20 24v6H44v-6zm10-14c0-8 4-12 10-12s10 4 10 12v4H54v-4z" fill="#FFFFFF"/>
+  <circle cx="52" cy="46" r="5" fill="#FFFFFF"/>
+  <circle cx="76" cy="46" r="5" fill="#FFFFFF"/>
+</svg>

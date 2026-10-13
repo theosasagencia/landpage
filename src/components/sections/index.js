@@ -1,0 +1,10 @@
+export { Hero } from './Hero';
+export { Services } from './Services';
+export { Sectors } from './Sectors';
+export { Process } from './Process';
+export { Cases } from './Cases';
+export { WhyUs } from './WhyUs';
+export { About } from './About';
+export { FAQ } from './FAQ';
+export { Contact } from './Contact';
+export { Quote } from './Quote';

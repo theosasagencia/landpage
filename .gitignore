@@ -1,0 +1,21 @@
+# Dependencias
+node_modules/
+
+# Builds y archivos generados
+dist/
+coverage/
+
+# Variables de entorno y logs locales
+.env
+.env.*
+!.env.example
+*.log
+
+# Guias de estilos locales
+estilos*.md
+GUIA-ESTILOS.md
+
+# Archivos temporales del sistema y del editor
+.DS_Store
+Thumbs.db
+.vscode/

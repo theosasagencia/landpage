@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://theosas.ar/sitemap.xml
